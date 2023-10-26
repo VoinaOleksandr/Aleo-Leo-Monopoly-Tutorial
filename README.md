@@ -5,8 +5,8 @@
 ## Build Guide
 <!-- # 🏦 Monopoly Game -->
 
-
 A simple monopoly game in Leo.
+Monopoly is a classic board game that involves real estate trading, strategy, and a bit of luck. It's played with 2 to 8 players, and the goal is to bankrupt your opponents by buying, developing, and trading properties.
 
 ## Summary
 
