@@ -1,7 +1,6 @@
 # Discord: parmedgano
-# Monopoly.aleo
 
-##shib.aleo 
+# Monopoly.aleo
 
 ## Build Guide
 <!-- # 🏦 Monopoly Game -->
