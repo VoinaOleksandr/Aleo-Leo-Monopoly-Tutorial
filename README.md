@@ -1,3 +1,4 @@
+# Discord: parmedgano
 # Monopoly.aleo
 
 ##shib.aleo 
